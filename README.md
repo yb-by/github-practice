@@ -3,5 +3,5 @@
 Learning GitHub step by step
 This line was edited on GitHub.
 This line is from practice branch.
-Conflict version A
+Conflict resolved successfully.
 
